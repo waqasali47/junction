@@ -1,5 +1,5 @@
 app:
-  title: Scaffolded Backstage App
+  title: junction
   baseUrl: http://localhost:3000
 
 organization:
