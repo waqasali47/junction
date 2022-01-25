@@ -43,7 +43,7 @@ backend:
 integrations:
   github:
     - host: github.com
-      token: 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
+      token: 
     ### Example for how to add your GitHub Enterprise instance using the API:
     # - host: ghe.example.net
     #   apiBaseUrl: https://ghe.example.net/api/v3
